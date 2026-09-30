@@ -1,0 +1,140 @@
+[
+  {
+    "file": "assets/images/hero/veran-hero.jpg",
+    "width": 772,
+    "height": 370,
+    "bytes": 58803
+  },
+  {
+    "file": "assets/images/products/boxer-duo.jpg",
+    "width": 145,
+    "height": 136,
+    "bytes": 4023
+  },
+  {
+    "file": "assets/images/products/sock-trio.jpg",
+    "width": 147,
+    "height": 136,
+    "bytes": 4937
+  },
+  {
+    "file": "assets/images/products/signature-gift.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 5094
+  },
+  {
+    "file": "assets/images/products/modal-trunks.jpg",
+    "width": 280,
+    "height": 199,
+    "bytes": 9424
+  },
+  {
+    "file": "assets/images/products/essential-boxer-briefs.jpg",
+    "width": 282,
+    "height": 199,
+    "bytes": 11745
+  },
+  {
+    "file": "assets/images/products/base-layer-set.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 5119
+  },
+  {
+    "file": "assets/images/products/v-neck-undershirts.jpg",
+    "width": 279,
+    "height": 199,
+    "bytes": 8035
+  },
+  {
+    "file": "assets/images/products/lounge-short.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 4522
+  },
+  {
+    "file": "assets/images/products/grey-trunk.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 4217
+  },
+  {
+    "file": "assets/images/products/classic-briefs.jpg",
+    "width": 280,
+    "height": 199,
+    "bytes": 9744
+  },
+  {
+    "file": "assets/images/products/white-brief.jpg",
+    "width": 147,
+    "height": 136,
+    "bytes": 4665
+  },
+  {
+    "file": "assets/images/products/performance-trunk.jpg",
+    "width": 147,
+    "height": 136,
+    "bytes": 4697
+  },
+  {
+    "file": "assets/images/categories/briefs.jpg",
+    "width": 147,
+    "height": 136,
+    "bytes": 4314
+  },
+  {
+    "file": "assets/images/categories/undershirts.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 4717
+  },
+  {
+    "file": "assets/images/categories/trunks.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 3846
+  },
+  {
+    "file": "assets/images/categories/socks.jpg",
+    "width": 147,
+    "height": 136,
+    "bytes": 4563
+  },
+  {
+    "file": "assets/images/categories/lounge.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 4140
+  },
+  {
+    "file": "assets/images/categories/performance.jpg",
+    "width": 147,
+    "height": 136,
+    "bytes": 4301
+  },
+  {
+    "file": "assets/images/categories/gift-sets.jpg",
+    "width": 146,
+    "height": 136,
+    "bytes": 4707
+  },
+  {
+    "file": "assets/images/categories/boxers.jpg",
+    "width": 145,
+    "height": 136,
+    "bytes": 3684
+  },
+  {
+    "file": "assets/images/branding/favicon.png",
+    "width": 256,
+    "height": 256,
+    "bytes": 65344
+  },
+  {
+    "file": "assets/images/branding/veran-logo.png",
+    "width": 700,
+    "height": 700,
+    "bytes": 453518
+  }
+]
